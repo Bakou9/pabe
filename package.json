@@ -31,7 +31,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Bakou/pa-be-.git"
+    "url": "git remote add origin https://github.com/Bakou9/pabe.git"
   },
   "author": "Bakou",
   "license": ""
